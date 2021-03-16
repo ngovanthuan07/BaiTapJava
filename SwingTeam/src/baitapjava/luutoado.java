@@ -7,8 +7,12 @@ package baitapjava;
 
 /**
  *
- * @author NGUYEN VAN QUYNH
+ * @author ngova
  */
-public class luutoado_bai9 {
-   public Double x ,y ;
+public class luutoado {
+    public static double x,y;
+
+    public luutoado() {
+    }
+    
 }
